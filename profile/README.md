@@ -6,11 +6,6 @@
 </div>
 
 <div dir="rtl">
-<h4>כמו כן, ניתן לקרוא את המאמר
-<a href="">בשפות אחרות</a>.</h4>
-</div>
-
-<div dir="rtl">
 <a href="https://help.github.com/articles/set-up-git/">אם אין לכם GIT ניתן להתקין GIT בקישור</a>
 </div>
 
